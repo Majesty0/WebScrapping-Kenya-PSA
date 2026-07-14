@@ -1,4 +1,4 @@
-
+```Text
 ARCHITECTURE
 Governance PSA Scraper
 │
@@ -40,7 +40,7 @@ https://www.health.go.ke/
 https://www.transport.go.ke/
 https://www.education.go.ke/
 https://www.mygov.go.ke/
-
+```
 B. Independent Commissions
 https://www.eacc.go.ke/
 
