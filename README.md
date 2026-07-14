@@ -1,6 +1,28 @@
 
 ARCHITECTURE
-<img width="910" height="3700" alt="deepseek_mermaid_20260714_5cd41d" src="https://github.com/user-attachments/assets/8a989033-86da-4820-a699-897eb962bb65" />
+Governance PSA Scraper
+│
+├── Step 1: Define Source Websites
+│
+├── Step 2: Crawl Websites
+│
+├── Step 3: Visit Each PSA Page
+│
+├── Step 4: Extract Information
+│
+├── Step 5: Clean Text
+│
+├── Step 6: Detect Whether it is a PSA
+│
+├── Step 7: Categorize PSA
+│
+├── Step 8: Remove Duplicates
+│
+├── Step 9: Save Dataset
+│
+├── Step 10: Export to Excel
+│
+└── Step 11: Generate PDF Report
 
 
 
