@@ -1,45 +1,7 @@
-PROJECT ARCHITECTURE
 
-Government Websites
-NGO Websites
-Media Websites
-Official Social Media
-Press Releases
-RSS Feeds
-Gazettes
-            │
-            ▼
-Web Crawlers
-(Scrapy + Playwright)
-            │
-            ▼
-HTML Cleaning
-(Readability + BeautifulSoup)
-            │
-            ▼
-Content Extraction
-            │
-            ▼
-PSA Classification
-(BERT / Zero-shot Classification)
-            │
-            ▼
-Information Extraction
-Date
-Agency
-Category
-Location
-Deadline
-Target Audience
-Action Required
-            │
-            ▼
-Database
-(PostgreSQL / MongoDB)
-            │
-            ▼
-Analytics Dashboard
-Power BI / Tableau / Streamlit
+ARCHITECTURE
+<img width="910" height="3700" alt="deepseek_mermaid_20260714_5cd41d" src="https://github.com/user-attachments/assets/8a989033-86da-4820-a699-897eb962bb65" />
+
 
 
 
